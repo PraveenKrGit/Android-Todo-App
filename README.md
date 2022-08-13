@@ -1,7 +1,6 @@
 # Todo App
 
 I have developed an Android Todo app to add new tasks 
-
 and store it in the SQLite Database locally.
 
 ### App uses: 
